@@ -1,0 +1,43 @@
+body {
+
+     background-color: rgb(225, 241, 255);
+ }
+ h1{
+     color: rgba(7, 157, 245, 0.959);
+ }
+ h3{
+     text-align: center;
+     color: #2ab7e2;
+ }
+ h4{
+     color: rgb(240, 160, 70);
+ }
+ hr{
+            border-style: dotted;
+            border-top-style: none;
+            border-color: rgb(58, 111, 209);
+            border-width: 5px;
+            width: 5%;
+        }
+        label{
+            font-style: italic;
+            color: #f361b6;
+        }
+        input{
+             color:#0064fa;
+             box-shadow: 1cm;
+        }
+        a{
+            color: rgb(178, 18, 241);
+            text-align: center;
+        }
+ol{
+    justify-content: center;
+    margin-right: auto;
+}
+table
+{
+  margin-right: auto;
+  margin-left: auto;
+   text-align: center;
+}
